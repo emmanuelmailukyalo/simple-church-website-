@@ -26,26 +26,26 @@ nav {
     background-color: #111;
   }
   
-  /* Add styles for the main content */
+  /* styles for the main content */
   main {
     background-color: #f2f2f2;
     padding: 20px;
     margin: 20px;
   }
   
-  /* Add styles for headings */
+  /* styles for headings */
   h1, h2, h3 {
     color: #444;
     font-weight: bold;
   }
   
-  /* Add styles for paragraphs */
+  /*  styles for paragraphs */
   p {
     color: #666;
     line-height: 1.5;
   }
   
-  /* Add styles for the footer */
+  /*styles for the footer */
   footer {
     background-color: #444;
     color: white;
@@ -70,7 +70,7 @@ nav {
     text-decoration: none;
   }
   
-  /* Add styles for links */
+  /*  styles for links */
   a {
     color: #666;
     text-decoration: none;
