@@ -129,3 +129,36 @@ nav {
     text-decoration: none;
     border-radius: 30px;
 }
+
+.intro-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 50px 0;
+  background-color: #f8f8f8;
+}
+
+.intro-heading {
+  max-width: 600px;
+  margin-right: 50px;
+}
+
+.intro-heading h1 {
+  font-size: 48px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.intro-heading p {
+  font-size: 20px;
+  color: #666;
+  line-height: 1.5;
+  margin-bottom: 40px;
+}
+
+.intro-image img {
+  max-width: 100%;
+  height: auto;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
