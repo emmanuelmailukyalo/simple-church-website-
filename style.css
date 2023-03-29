@@ -243,3 +243,17 @@ nav {
   #blackheadpic{
     height: 40vh;
   }
+
+  .image-containeri {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .image {
+    width: auto;
+    height: 250px;
+    object-fit: cover;
+  }
