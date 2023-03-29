@@ -4,7 +4,7 @@ body{
 
 /* Add styles for the navigation bar */
 nav {
-    background-color: #444;
+    background-color:darkslategray;
     overflow: hidden;
   }
   
@@ -240,3 +240,6 @@ nav {
     background-color: #0069d9;
   }
   
+  #blackheadpic{
+    height: 40vh;
+  }
